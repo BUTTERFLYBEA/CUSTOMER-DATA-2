@@ -1,6 +1,7 @@
 # CUSTOMER-DATA-2
+# Pro
 ## PROJECT OVERVIEW 
-#PROJECT TITTLE: CUSTOMER DATA 
+##PROJECT TITTLE: CUSTOMER DATA 
 
 This helps to Analyze customer data to understand demographics, behavior,and preference.
 - Scope: customer data from specific time period 
@@ -116,5 +117,12 @@ FROM
 
 ORDER BY
        Recency DESC;
+
+
+
+
+
+
+       
    
 
