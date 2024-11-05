@@ -1,14 +1,14 @@
 # CUSTOMER-DATA-2
 PROJECT TITTLE: CUSTOMER DATA 
 ---
-- [Project overview][#Project-overview]
-- [Basic Statistical Data][#Basic-Statistical-Data]
-- [Data Collection][#Data-Collection]
-- [Tools Used][#Tools-Used]
-- [Exploratory Data Analysis][#Exploratory-Data-Analysis]
-- [Data Cleaning And Preparation][#Data-Cleaning-And-Preparation]
-- [Data Visualization][#Data-Visualization]
-- [SQL Query][#SQL-Query]
+- [Project overview][#project-overview]
+- [Basic Statistical Data][#basic-statistical-data]
+- [Data Collection][#data-collection]
+- [Tools Used][#tools-used]
+- [Exploratory Data Analysis][#exploratory-data-analysis]
+- [Data Cleaning And Preparation][#data-cleaning-and-preparation]
+- [Data Visualization][#data-visualization]
+- [SQL Query][#sql-query]
   
   
 ---
