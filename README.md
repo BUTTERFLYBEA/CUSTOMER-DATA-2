@@ -2,9 +2,14 @@
 ## PROJECT OVERVIEW 
 ##PROJECT TITTLE: CUSTOMER DATA 
 ---
-- [Project overview][#Project overview]
-- [Basic Statistical Data][#Basic Statistical Data]
-- [Data Collection][#Data Collection]
+- [Project overview][#Project-overview]
+- [Basic Statistical Data][#Basic-Statistical-Data]
+- [Data Collection][#Data-Collection]
+- [Tools Used][#Tools-Used]
+- [Exploratory Data Analysis][#Exploratory-Data-Analysis]
+- [Data Cleaning And Preparation][#Data-Cleaning-And-Preparation]
+- [Data Visualization][#Data-Visualization]
+- [SQL Query][#SQL-Query]
   
 
 This helps to Analyze customer data to understand demographics, behavior,and preference.
