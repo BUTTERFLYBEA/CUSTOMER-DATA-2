@@ -1,7 +1,11 @@
 # CUSTOMER-DATA-2
-# Pro
 ## PROJECT OVERVIEW 
 ##PROJECT TITTLE: CUSTOMER DATA 
+---
+- [Project overview][#Project overview]
+- [Basic Statistical Data][#Basic Statistical Data]
+- [Data Collection][#Data Collection]
+  
 
 This helps to Analyze customer data to understand demographics, behavior,and preference.
 - Scope: customer data from specific time period 
