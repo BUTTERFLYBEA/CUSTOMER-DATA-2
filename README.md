@@ -1,6 +1,5 @@
 # CUSTOMER-DATA-2
-## PROJECT OVERVIEW 
-##PROJECT TITTLE: CUSTOMER DATA 
+PROJECT TITTLE: CUSTOMER DATA 
 ---
 - [Project overview][#Project-overview]
 - [Basic Statistical Data][#Basic-Statistical-Data]
@@ -11,7 +10,10 @@
 - [Data Visualization][#Data-Visualization]
 - [SQL Query][#SQL-Query]
   
-
+  
+---
+PROJECT OVERVIEW:
+---
 This helps to Analyze customer data to understand demographics, behavior,and preference.
 - Scope: customer data from specific time period 
 - Deliverables: insight on customer demographics,purchase behavior and interaction channels
