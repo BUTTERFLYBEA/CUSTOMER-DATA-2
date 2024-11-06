@@ -14,7 +14,7 @@ PROJECT TITTLE: CUSTOMER DATA ANALYSIS
 ---
 PROJECT OVERVIEW:
 ---
-This helps to Analyze customer data to understand demographics, behavior,and preference.
+ This report aims at analyzing customer data and understanding the subscription trends to know the best action to take for the subscription types not doing well. It presents an in-depth analysis of customer subscription service data, focusing on segmentation, cancellation trends, and overall subscription patterns. the analysis aims to understand customer behaviour, track subscription types, and identify key trends in cancellations and renewals. Using a combination of MS Excel, SQL, and Power BI, the data was cleaned, organized, analyzed, and visualized to reveal insights into customer behaviour. 
 - Scope: customer data from specific time period 
 - Deliverables: insight on customer demographics,purchase behavior and interaction channels
 
