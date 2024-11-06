@@ -30,15 +30,19 @@ The data used was collected and complied through transaction logging. This ensur
 ### Data Characteristics:
 ---
 The dataset includes the following variables:
+1. CustomerID : A uniques identification of each customer
+2. Customer Name : Names of the customers
+3. Region : 
+4. Subscription Type : Type of subscription purchased
+5. Subscription Start: The date of subscription
+6. Subscription End : the date of subscription expiration
+7. Canceled : If the subscription was canceled or not
+8. Revenue : The revenue generated from each purchased
+9. Subscription Duration : The duration of each purchased subscription.
+---
+## BASIC STATISTICS IN THE DATASET:
+---
 
-
-
-## BASIC STATISTICS IN THE DATASET
-1. Total Sales: 2.1 Million
-2. Average Sales: 211.8
-3. Total Customer: 9921
-4. Marginal Profit: 1.8 Million
-5. Total Quantity: 68.5k
 ---
 Data Collection 
 ---
