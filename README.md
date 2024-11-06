@@ -42,14 +42,20 @@ The dataset includes the following variables:
 ---
 ## BASIC STATISTICS IN THE DATASET:
 ---
+1. Total Revenue : 67.5 Million
+2. Average Revenue : 1999
+3. Average Duration : 365.35
+4. Total Customer : 33787
+5. Total Order : 33787
+---
+## METHODOLOGY:
+---
+### Data Cleaning:
+* Removing duplicates
+Eliminated duplicated records to ensure Data Quality
 
----
-Data Collection 
----
-- Source: database name,eg SQL SERVER 
-- Method: API,Web scraping, manual entry
-- Time period: Start date-end date
-- Data Quality Issues: list issues,eg missing values, duplicate 
+* Adding New Columns
+Added new columns sales and revenue by multipling the quantity of the product purchased by the respective unit price, added an average column for the sales/revenue of products purchased and also added a calculated column for the Marginal profit made in the company over the space of a year and eight months.
 
 ---
 Tools Used
@@ -62,13 +68,8 @@ Tools Used
 Excel, Google Sheets 
 
 ---
-Exploratory Data Analysis 
----
-- Distribution of customers demographics (age,gender, location)
-
-- Correlation between purchase behavior and demographics 
-
-- Identification of outliers and anomalies
+### Exploratory Data Analysis:
+ 
 
 ---
 Data Cleaning and Preparation 
