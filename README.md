@@ -2,7 +2,7 @@
 PROJECT TITTLE: CUSTOMER DATA ANALYSIS
 ---
 - [Project overview](#project-overview)
-- [Basic Statistical Data](#basic-statistical-data)
+- [Basic Statistics In The Data](#basic-statistics-in-the-data)
 - [Data Collection](#data-collection)
 - [Tools Used](#tools-used)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
@@ -23,19 +23,26 @@ PROJECT OVERVIEW:
 ### Data sources
 The data used in this project was obtained from the Incubator Hub. It includes detailed records of transactions, customer demographics, product information and regional sales distribution.
 ---
-### Data Collection:
+### Data Characteristics:
 ---
-The data used was collected and complied through transaction logging. This ensures that the dataset represents an accurate record of customer interactions and purchasing patterns over a year and eight months.
----
-Basic Statistical Data
----
-- Total customers.
-- Male-Female ratio.
-- Average age.
-- Top 5 location 
-- Average purchase value
-- Purchase frequency 
+The data used was collected and complied through transaction logging. This ensures that the dataset represents an accurate record of customer interactions and purchasing patterns over a year and eight months.The dataset includes the following variables:
+1. OrderID : Unique identification of each order purchased by the customers
+2. CustomerID : Unique identification for each customer
+3. Product : Items purchased by the customers
+4. Region : 
+5. Order Date : Date when the items(products) were purchased
+6. Quantity : The amount of items purchased in each transaction
+7. Unit Price : The cost price of each item purchased
+8. Revenue : The revenue generated when the items were sold
+9. Sales : the money gotten when the item were sold
+10. Average : The average of sale
 
+## BASIC STATISTICS IN THE DATASET
+1. Total Sales: 2.1 Million
+2. Average Sales: 211.8
+3. Total Customer: 9921
+4. Marginal Profit: 1.8 Million
+5. Total Quantity: 68.5k
 ---
 Data Collection 
 ---
