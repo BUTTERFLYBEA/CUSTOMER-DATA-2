@@ -17,7 +17,15 @@ PROJECT OVERVIEW:
  This report aims at analyzing customer data and understanding the subscription trends to know the best action to take for the subscription types not doing well. It presents an in-depth analysis of customer subscription service data, focusing on segmentation, cancellation trends, and overall subscription patterns. the analysis aims to understand customer behaviour, track subscription types, and identify key trends in cancellations and renewals. Using a combination of MS Excel, SQL, and Power BI, the data was cleaned, organized, analyzed, and visualized to reveal insights into customer behaviour. 
 - Scope: customer data from specific time period 
 - Deliverables: insight on customer demographics,purchase behavior and interaction channels
-
+---
+## DATA INFORMATION:
+---
+### Data sources
+The data used in this project was obtained from the Incubator Hub. It includes detailed records of transactions, customer demographics, product information and regional sales distribution.
+---
+### Data Collection:
+---
+The data used was collected and complied through transaction logging. This ensures that the dataset represents an accurate record of customer interactions and purchasing patterns over a year and eight months.
 ---
 Basic Statistical Data
 ---
