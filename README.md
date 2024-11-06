@@ -23,19 +23,15 @@ PROJECT OVERVIEW:
 ### Data sources
 The data used in this project was obtained from the Incubator Hub. It includes detailed records of transactions, customer demographics, product information and regional sales distribution.
 ---
+### Data Collection:
+---
+The data used was collected and complied through transaction logging. This ensures that the dataset represents an accurate record of customer interactions and purchasing patterns over a year and eight months.
+---
 ### Data Characteristics:
 ---
-The data used was collected and complied through transaction logging. This ensures that the dataset represents an accurate record of customer interactions and purchasing patterns over a year and eight months.The dataset includes the following variables:
-1. OrderID : Unique identification of each order purchased by the customers
-2. CustomerID : Unique identification for each customer
-3. Product : Items purchased by the customers
-4. Region : 
-5. Order Date : Date when the items(products) were purchased
-6. Quantity : The amount of items purchased in each transaction
-7. Unit Price : The cost price of each item purchased
-8. Revenue : The revenue generated when the items were sold
-9. Sales : the money gotten when the item were sold
-10. Average : The average of sale
+The dataset includes the following variables:
+
+
 
 ## BASIC STATISTICS IN THE DATASET
 1. Total Sales: 2.1 Million
