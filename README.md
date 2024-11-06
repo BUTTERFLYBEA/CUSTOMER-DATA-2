@@ -100,11 +100,9 @@ After cleaning the data in excel and making pivot tables for analysis, it was ex
 1. Microsoft Excel: Used for data cleaning, analysis and creating pivot visualization [DOWNLOAD HERE](HTTP://WWW.MICROSOFT.COM/EN-US/MICROSOFT-365/EXCEL)
 2. MIcrosoft SQL server (SMSS): Used for pre-processing [DOWNLOAD HERE](HTTP://WWW.MICROSOFT.COM/EN-US/SQL-SERVER/SQL-SERVER-DOWNLOADS)
 3. Microsoft Power BI desktop: Used for creating dashboards and visualization [DOWNLOAD HERE](HTTP://WWW.MICROSOFT.COM/EN-US/DOWNLOAD/DETAILS.ASPX?ID=58494)
----
+ 
 ## ANALYSIS:
----
-### Dashboard Overview:
-
+### Dashboard Overview
 ![customer 1](https://github.com/ButterflyBea/LITA-PROJECTS/blob/main/customer%201.png?raw=true)
 ![customer 2](https://github.com/ButterflyBea/LITA-PROJECTS/blob/main/customer%202.png?raw=true)
 ---
